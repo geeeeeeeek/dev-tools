@@ -4,12 +4,8 @@
   "version": "2026.01.22-v2",
   "packageManager": "pnpm@9.11.0",
   "description": "Collection of handy online tools for developers, with great UX. ",
-  "author": "Corentin Th <corentin.thomasset74+it-tools@gmail.com> (https://corentin.tech)",
+  "author": "Corentin and Tim",
   "license": "GNU GPLv3",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CorentinTh/it-tools"
-  },
   "keywords": [
     "productivity",
     "converter",
