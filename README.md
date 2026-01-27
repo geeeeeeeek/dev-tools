@@ -2,19 +2,31 @@
 
 ## 运行步骤
 
+
+### 准备node环境
+
+https://nodejs.org/zh-cn/download
+
+
+### 安装pnpm
+
+```sh
+npm install pnpm -g
+```
+
 ### 安装依赖
 
 ```sh
 pnpm install
 ```
 
-### 开发环境编译与热重载
+### 开发环境运行
 
 ```sh
 pnpm dev
 ```
 
-### 生产环境类型检查、编译与压缩
+### 生产环境构建
 
 ```sh
 pnpm build

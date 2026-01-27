@@ -1,7 +1,7 @@
 {
   "name": "it-tools",
   "type": "module",
-  "version": "2024.10.22-7ca5933",
+  "version": "2026.01.22-v2",
   "packageManager": "pnpm@9.11.0",
   "description": "Collection of handy online tools for developers, with great UX. ",
   "author": "Corentin Th <corentin.thomasset74+it-tools@gmail.com> (https://corentin.tech)",
@@ -23,7 +23,7 @@
   ],
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc --noEmit && NODE_OPTIONS=--max_old_space_size=4096 vite build",
+    "build": "vue-tsc --noEmit &&  vite build",
     "preview": "vite preview --port 5050",
     "test": "npm run test:unit",
     "test:unit": "vitest --environment jsdom",
