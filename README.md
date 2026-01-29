@@ -55,3 +55,8 @@ server {
 浏览器调试的时候，可以关闭sw.js的注册
 
 application--> service workers
+
+
+## 视频教程
+
+https://youtube.com/@java1024
