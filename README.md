@@ -59,4 +59,4 @@ application--> service workers
 
 ## 视频教程
 
-https://youtube.com/@java1024
+https://www.youtube.com/watch?v=L_sii6bwnEs
